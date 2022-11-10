@@ -4,7 +4,7 @@
  * @author Christopher Williams
  * Created on: Apr 12, 2017
  * Last Modified: Apr 15, 2019
- * Description:  
+ * Description
  */
 package ch16;
 
